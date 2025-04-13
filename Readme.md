@@ -9,8 +9,6 @@ Este proyecto realiza un análisis exploratorio sobre datos relacionados con det
 -**docs/**: Documentos Inciales, conclusiones de analisis exploratorio, conclusión de modelos
 predictivos.
 
-## Cómo Ejecutar
-1. Clona el repositorio.
 
 
 ---
